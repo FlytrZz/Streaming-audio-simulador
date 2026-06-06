@@ -1,4 +1,4 @@
-# Simulador de Streaming de Música
+# Simulador de Streaming de Música e Podcasts
 
 Sistema de classificação de áudios que simula uma plataforma de streaming, com músicas e podcasts com base em POO Java.
 
