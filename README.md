@@ -1,4 +1,4 @@
-# Projeto Final de Programação Orientada a Objeto Java do curso da Alura
+# Simulador de Streaming de Música
 
 Sistema de classificação de áudios que simula uma plataforma de streaming, com músicas e podcasts com base em POO Java.
 
@@ -17,6 +17,3 @@ Sistema de classificação de áudios que simula uma plataforma de streaming, co
 1. Clone o repositório
 2. Abra no Eclipse
 3. Execute a classe Main
-
-## 📚 Aprendizados
-Aprendi a como desenvolver projetos Java a base de POO.
